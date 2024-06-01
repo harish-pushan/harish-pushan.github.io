@@ -1,14 +1,21 @@
-This is my team => Binary_Misfit 
+---
+title: My Team (Binary_Misfits)
+---
 
-Team Players 
-            1. Ashwant
-            ,2. Simply_jas (Elavarasan)
-            ,3. Code_Mistic (Goushal K)
 
-Ashwant    : Cryptographer
+##This is my team => Binary_Misfit
 
-Simply_jas : Reverse Engeineer 
+<img class="thumbnailshadow" src="img/teamlogo.jpg">
 
-Code_Mistic: Web Penetration Tester
+##Team Players: 
+            ###1. Ashwant
+            ,###2. Simply_jas (Elavarasan)
+            ,###3. Code_Mistic (Goushal K)
 
-Me         : General
+##Ashwant    : Cryptographer
+
+##Simply_jas : Reverse Engeineer 
+
+##Code_Mistic: Web Penetration Tester
+
+##Me         : General
