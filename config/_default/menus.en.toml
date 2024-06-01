@@ -10,20 +10,23 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  identifier = "instagram"
+  name = "instagram"
+  pageRef = "https://www.instagram.com/00ha.rish00?igsh=aWhtd3F6MWprM3k="
+  weight = 1
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  identifier = "twitter"
+  name = "twitter"
+  pageRef = "https://x.com/0just_an_guy0?t=AmJgahFJ73H3BYo0BtACdw&s=09"
+  weight = 2
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "github"
+  identifier = "github"
+  pageRef = "https://github.com/harish-pushan"
+  weight = 3
 
 #[[main]]
 #  name = "example sub-menu 2"
