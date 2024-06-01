@@ -11,9 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  identifier = "instagram"
-  name = "instagram"
-  url = "https://www.instagram.com/00ha.rish00?igsh=aWhtd3F6MWprM3k="
+  identifier = "team"
+  pageref = "team"
   weight = 1
 
 [[main]]
@@ -61,12 +60,20 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   url = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   url = "categories"
-#   weight = 20
+[[footer]]
+  identifier = "instagram"
+  name = "instagram"
+  url = "https://www.instagram.com/00ha.rish00?igsh=aWhtd3F6MWprM3k="
+  weight = 1
+[[footer]]
+  identifier = "twitter"
+  name = "twitter"
+  url = "https://x.com/0just_an_guy0?t=AmJgahFJ73H3BYo0BtACdw&s=09"
+  weight = 2
+[[footer]]
+  name = "github"
+  identifier = "github"
+  url = "https://github.com/harish-pushan"
+  weight = 3
+  
+  
