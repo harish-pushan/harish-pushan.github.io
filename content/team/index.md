@@ -5,7 +5,7 @@ title: My Team (Binary_Misfits)
 
 This is my team => Binary_Misfit
 
-<img class="thumbnailshadow" src="teamlogo.jpeg">
+<img class="thumbnailshadow" src="img/teamlogo.jpeg">
 
 
 Team Players: 
