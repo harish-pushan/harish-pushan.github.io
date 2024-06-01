@@ -6,15 +6,19 @@ title: My Team (Binary_Misfits)
 This is my team => Binary_Misfit
 
 <img class="thumbnailshadow" src="blowfish/img/teamlogo.jpg">
-
+~~~
 Team Players: 
             1. Ashwant
             
             2. Simply_jas (Elavarasan)
             
             3. Code_Mistic (Goushal K)
+~~~
 
 Ashwant    : Cryptographer
+
 Simply_jas : Reverse Engeineer 
+
 Code_Mistic: Web Penetration Tester
+
 Me         : General
