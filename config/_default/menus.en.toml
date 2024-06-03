@@ -16,11 +16,11 @@
   pageref = "team"
   weight = 1
 
-#[[main]]
-#  identifier = "twitter"
-#  name = "twitter"
-#  url = "https://x.com/0just_an_guy0?t=AmJgahFJ73H3BYo0BtACdw&s=09"
-#  weight = 2
+[[main]]
+  identifier = "Winnings"
+  name = "Winnings"
+  pageref = "winings"
+  weight = 2
 
 #[[main]]
 #  name = "github"
