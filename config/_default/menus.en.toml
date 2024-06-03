@@ -22,11 +22,11 @@
   pageref = "winings"
   weight = 2
 
-#[[main]]
-#  name = "github"
-#  identifier = "github"
-#  url = "https://github.com/harish-pushan"
-#  weight = 3
+[[main]]
+  name = "Skills"
+  identifier = "Skills"
+  pageref = "skills"
+  weight = 3
 
 #[[main]]
 #  name = "example sub-menu 2"
