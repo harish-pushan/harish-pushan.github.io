@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  identifier = "team"
-  name = "team"
+  identifier = "Team"
+  name = "Team"
   pageref = "team"
   weight = 1
 
