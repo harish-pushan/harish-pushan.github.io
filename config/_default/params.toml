@@ -74,8 +74,8 @@ defaultFeaturedImage = "Dark_Nature.png" # used as default for featured images i
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  sharingLinks = [ "linkedin" : "https://ln.run/Svuol", "github" : "https://github.com/goushalk", "instagram" : "https://ln.run/1D5ue"]
+  showZenMode = true
 
 [list]
   showHero = false

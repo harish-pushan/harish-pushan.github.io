@@ -13,15 +13,15 @@ Team Players:
             
             1. Ashwant
             
-            2. Simply_jas (Elavarasan)
+            2. simply_jas (Elavarasan)
             
-            3. Code_Mistic (Goushal K)
+            3. codemystiqe (Goushal K)
 
 
 Ashwant    : Cryptographer
 
-Simply_jas : Reverse Engeineer 
+simply_jas : Reverse Engeineer 
 
-Code_Mistic: Web Penetration Tester
+codemystiqe : Web Penetration Tester
 
 Me         : General
