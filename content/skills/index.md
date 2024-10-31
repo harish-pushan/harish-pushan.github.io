@@ -4,10 +4,10 @@ title: My Skills
 
 * Networking
 
-* Hardware Management
+* Docker
 
-* Hardware Configuration 
+* CTF Player 
 
-* Python (Really Intermediate)
+* Python 
 
-* Bash (Basic Automation)
+* Bash 
